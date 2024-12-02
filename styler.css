@@ -1,12 +1,12 @@
 body{
-    color: #090029;
-    background: #17184d;
+    color: blueviolet;
+    background: blueviolet;
     font-family: "Dancing Script", cursive;
     margin:0px;
     margin-bottom:100px;
 }
 .chamada{
-background:rgb(0, 0, 126);
+background:blueviolet;
 margin-top:80px;
 margin-bottom:80px;
 display: flex;
@@ -19,7 +19,7 @@ header{
     
 }
 .categoria{
-    background:rgb(0, 0, 126);
+    background: blueviolet;
     padding-left:20px;
     padding-right: 20px;
     margin-top: 50px;
